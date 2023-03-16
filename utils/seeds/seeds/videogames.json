@@ -1,0 +1,543 @@
+[
+    {
+        "name": "Elden Ring",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0506/hcFeWRVGHYK72uOw6Mn6f4Ms.jpg?w=620&thumb=false",
+        "price": 49.9, 
+        "category": "videojuegos", 
+        "description": "EL NUEVO JUEGO DE ROL Y ACCIÓN DE AMBIENTACIÓN FANTÁSTICA. Álzate, Sinluz, y que la gracia te guíe para abrazar el poder del Círculo de Elden y encumbrarte como señor del Círculo en las Tierras Intermedias.",
+        "stock": 5,
+        "plataforma": "PS5"
+        
+    },
+    {
+        "name": "God of War Ragnarok",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/aqZdSwWyy9JcQ66BxHDKrky6.jpg?w=1024&thumb=false",
+        "price": 69.9, 
+        "category": "videojuegos", 
+        "description": "Únete a Kratos y Atreus en un viaje mítico en busca de respuestas antes de que llegue el Ragnarök. Juntos, padre e hijo deberán arriesgarlo todo mientras recorren cada uno de los Nueve Reinos.",
+        "stock": 4,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Horizon Forbidden West",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/y9l4USehsnxhNTCU3HSEwd3a.jpg?w=940&thumb=false",
+        "price": 59.9, 
+        "category": "videojuegos", 
+        "description": "Acompaña a Aloy en su aventura por el Oeste Prohibido, una peligrosa tierra que alberga nuevas y misteriosas amenazas.",
+        "stock": 4,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Marvel's Spider-Man: Miles Morales",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2812/QqgJl45nvRmPMneP6bPSAigU.jpg?w=940&thumb=false",
+        "price": 59.9, 
+        "category": "videojuegos", 
+        "description": "Se trata de la versión completa de este galardonado juego, con los tres capítulos de la aventura Marvel’s Spider-Man: La ciudad que nunca duerme, remasterizada y mejorada para la consola PS5.",
+        "stock": 2,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "RATCHET & CLANK: UNA DIMENSIÓN APARTE",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2921/w3RFQp92NiCqDrLzbxx0DHAp.jpg?w=940&thumb=false",
+        "price": 29.9, 
+        "category": "videojuegos", 
+        "description": "¡Ratchet y Clank han vuelto! Ayúdalos a parar los pies a un emperador robótico que pretende conquistar mundos interdimensionales y que ha fijado sus miras en su universo. Descubre la evolución de este equipo de ensueño con la llegada de Rivet, una luchadora lombax de la resistencia procedente de otra dimensión.",
+        "stock": 3,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Gran Turismo 7",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2806/y4liLwBLXmhWHIvakDIMG1T1.jpg?w=940&thumb=false",
+        "price": 69.9, 
+        "category": "videojuegos", 
+        "description": "Ponte al volante de más de 400 coches desde el primer día y recorre más de 90 circuitos con condiciones climáticas dinámicas. Todos los vehículos, desde los modelos más clásicos a los supercoches más vanguardistas, han sido recreados con todo lujo de detalles.",
+        "stock": 1,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Ghost of Tsushima DIRECTOR’S CUT",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/ZSrFeb6XkqKiq2PZKWg20yfe.jpg?w=940&thumb=false",
+        "price": 49.9, 
+        "category": "videojuegos", 
+        "description": "Descubre la experiencia expandida de Ghost of Tsushima con Director’s Cut, que incluye todo el contenido adicional publicado hasta la fecha.",
+        "stock": 3,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202102/2409/zRaVh8VBrnBaUgXBvUEC0KRr.jpg?w=940&thumb=false",
+        "price": 39.9, 
+        "category": "videojuegos", 
+        "description": "FINAL FANTASY VII REMAKE expande y reinventa el inolvidable mundo del juego original para PlayStation®. Es el primer juego del proyecto FINAL FANTASY VII REMAKE y su historia abarca hasta la huida de Midgar. INTERGRADE es un bundle que incluye el REMAKE y FF7R EPISODE INTERmission (contenido descargable del nuevo episodio de Yuffie). Este relata las aventuras de Yuffie en Midgar, donde deberá aunar fuerzas con otro agente de Wutai y la célula principal de Avalancha para infiltrarse en el edificio de Shinra y robar la materia suprema.",
+        "stock": 2,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Sackboy Una aventura a lo grande",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/Q9d4QEs1lhYB28OYOMJRHexP.jpg?w=940&thumb=false",
+        "price": 29.9, 
+        "category": "videojuegos", 
+        "description": "Asume desafíos mientras exploras un mundo artesanal y te sumerges en su universo con unas mecánicas de juego muy divertidas. Enfréntate en solitario a una increíble aventura repleta de peligros o forma equipos de 2 a 4 aventureros y pásatelo en grande mientras colaboráis para superar los obstáculos.",
+        "stock": 5,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Demon’s Souls",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/lEQQ9AXMadW1BN8kruQbSy8S.jpg?w=940&thumb=false",
+        "price": 49.9, 
+        "category": "videojuegos", 
+        "description": "En la búsqueda por aumentar su poder, el rey Allant XII, monarca de Boletaria, canalizó las antiguas artes del alma y despertó a un demonio tan antiguo como el tiempo: el Anciano. Esta acción provocó que una niebla incolora se extendiera por toda la región, liberando a terroríficas criaturas hambrientas de almas humanas. Aquellos cuyas almas les fueron arrebatadas, perdieron la cordura y solo les quedó el deseo de atacar a quien aún la conserve.",
+        "stock": 1,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Hades",
+        "image": "https://teamupmedia.es/wp-content/uploads/2021/04/hades-switch-hero.jpeg",
+        "price": 19.9, 
+        "category": "videojuegos", 
+        "description": "Hades es un juego roguelike de exploración de mazmorras que combina los mejores aspectos de los aclamados títulos anteriores de Supergiant, como la acción rápida de Bastion, la atmósfera y la profundidad de Transistor y la narrativa centrada en los personajes de Pyre.",
+        "stock": 3,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Kena: Bridge of Spirits",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/1401/llxvIbgZ6wgsWRkovO0ZOXd4.jpg?w=940&thumb=false",
+        "price": 29.9, 
+        "category": "videojuegos", 
+        "description": "Kena, una joven guía espiritual, viaja a un pueblo abandonado en busca del santuario sagrado de la montaña. Lucha por descubrir los secretos de esta comunidad olvidada y escondida en un bosque cubierto de malezas, en el que hay atrapados espíritus errantes.",
+        "stock": 5,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "DEATH STRANDING DIRECTOR’S CUT",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2214/a8zjXIdTwKslJ2HvoJvY34a1.jpg?w=940&thumb=false",
+        "price": 19.9, 
+        "category": "videojuegos", 
+        "description": "Hideo Kojima, el legendario creador de videojuegos, nos ofrece una experiencia que desafía a todos los géneros, ahora ampliada y remasterizada en el definitivo Director's Cut.",
+        "stock": 1,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Devil May Cry 5 Special Edition",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1710/UUnpHLJqLAIJX5HioswiPuAm.png?w=940&thumb=false",
+        "price": 19.9, 
+        "category": "videojuegos", 
+        "description": "¡¡DEVIL MAY CRY HA VUELTO, COLEGA!! Este legendario juego de acción espectacular regresa mejor que nunca en la versión definitiva de este galardonado superéxito.",
+        "stock": 5,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Death's Door",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_DeathsDoor_image1600w.jpg",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "La cosa se anima cuando roban el alma que tienes asignada y tienes que seguirle el rastro a un ladrón desesperado hasta un mundo que la muerte no ha tocado, donde las criaturas crecen más allá de lo que les toca y rebosan de codicia y poder.",
+        "stock": 5,
+        "plataforma": "PS5"
+    },
+    {
+        "name": "Hollow Knight: Edición Corazón Vacío",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/7XWcd2Kg44o1IzyY1L7czyyS.png?w=1920&thumb=false",
+        "price": 7.25, 
+        "category": "videojuegos", 
+        "description": "¡Desciende al mundo de Hollow Knight! La galardonada aventura de acción de insectos y héroes. Explora cavernas serpenteantes, antiguas ciudades y páramos mortales. Lucha contra criaturas mancilladas y haz nuevas amistades con extraños insectos. Descubre una antigua historia y resuelve los misterios de este reino.",
+        "stock": 2,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "Cuphead",
+        "image": "https://image.api.playstation.com/vulcan/img/cfn/11307fd0s0uyV-ba4dy5E9qskf6CIntl28sAerYTFbYC7vPUBrfgp7zokliHVbVoJ5ghylOBamo2Q2i5pbEYxQKFnSsiLHaY.png?w=940&thumb=false",
+        "price": 13.99, 
+        "category": "videojuegos", 
+        "description": "¡Juega como Cuphead o Mugman (en los modos de un solo jugador o cooperativo local) y atraviesa mundos pintorescos, adquiere nuevas armas, aprende poderosos supermovimientos y descubre secretos ocultos mientras intentas saldar tu deuda con el diablo!",
+        "stock": 4,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "ENDER LILIES: Quietus of the Knights",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202105/2013/LM47ulV5zj6i9WxyTsp0akwD.png?w=1920&thumb=false",
+        "price": 29.99, 
+        "category": "videojuegos", 
+        "description": "Hace mucho tiempo, en la distante Finisterra, el Diluvio Mortal cayó repentinamente de los cielos, transformando a todos los seres vivos en impuros, muertos vivientes consumidos por la ira. Sin nada que hacer ante una tragedia que iba más allá de la comprensión humana, el Reino quedó devastado con el Diluvio, que persistía como una maldición eterna. En las entrañas de una iglesia, en un mundo al borde de la extinción, una joven llamada Lily abre los ojos.",
+        "stock": 4,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "Sekiro: Shadows die twice",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2818/ofQOsetcmEILO4MjvRudoUOC.png?w=1920&thumb=false",
+        "price": 34.99, 
+        "category": "videojuegos", 
+        "description": "Explora el Japón de la era Sengoku de finales del siglo XVI mientras te enfrentas a inconmensurables enemigos en un mundo oscuro y tortuoso. Despliega un arsenal de instrumentos protésicos letales y habilidades ninja, al mismo tiempo que combinas el sigilo, la verticalidad y transversalidad, y los viscerales combates cara a cara en una sangrienta confrontación.",
+        "stock": 1,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "Bloodborne™: Game of the Year Edition",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2614/KKLEVc2SIIgrFVjsZChZJk1d.jpg?w=940&thumb=false",
+        "price": 9.99, 
+        "category": "videojuegos", 
+        "description": "Un viajero solitario. Un pueblo maldito. Un misterio letal que devora todo lo que toca. Enfréntate a tus miedos y adéntrate en la ciudad en ruinas de Yharnam, un lugar abandonado asolado por una terrible enfermedad que lo consume todo. ¿Lograrás sobrevivir a la noche?",
+        "stock": 3,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "God of War",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/LsaRVLF2IU2L1FNtu9d3MKLq.jpg",
+        "price": 9.99, 
+        "category": "videojuegos", 
+        "description": "Kratos vuelve a ser padre. Como progenitor y protector de Atreus, un hijo decidido a ganarse el respeto del padre, Kratos debe sobrevivir en un mundo muy peligroso dominando y controlando la ira que tanto lo ha caracterizado.",
+        "stock": 2,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "Horizon Zero Dawn",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2923/LyLrdlIfqiVzvynWJGtNfbU8.png?w=1920&thumb=false",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "LA TIERRA YA NO NOS PERTENECE. Vive la misión legendaria de Aloy de los Nora para desvelar los secretos de un mundo dominado por máquinas letales. La joven cazadora, una paria para su tribu, lucha por revelar su pasado, descubrir su destino... y detener una amenaza catastrófica para el futuro.",
+        "stock": 5,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202211/0914/TvcIHkYqqln1RGbaFqBeuFp6.jpg?w=940&thumb=false",
+        "price": 29.99, 
+        "category": "videojuegos", 
+        "description": "Eres Geralt de Rivia, cazador de monstruos. En un continente devastado por la guerra e infestado de criaturas, tu misión es encontrar a Ciri, la niña de la profecía, un arma viviente que puede alterar el mundo tal y como lo conocemos.",
+        "stock": 2,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png?w=940&thumb=false",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "América, 1899. Arthur Morgan y la banda de Van der Linde se ven obligados a huir. Con agentes federales y los mejores cazarrecompensas de la nación pisándoles los talones, la banda deberá atracar, robar y luchar, para sobrevivir en su camino por el escabroso territorio del corazón de América. Mientras las divisiones internas aumentan y amenazan con separarlos a todos, Arthur deberá elegir entre sus propios ideales y la lealtad a la banda que lo vio crecer.",
+        "stock": 4,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "image": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0911/VIB0SeEj9vT6DTv7P4thJLZi.jpg?w=940&thumb=false",
+        "price": 9.99, 
+        "category": "videojuegos", 
+        "description": "Un joven estafador callejero, un ladrón de bancos retirado y un psicópata aterrador se meten en un lío, y tendrán que llevar a cabo una serie de peligrosos golpes para sobrevivir en una ciudad en la que no pueden confiar en nadie, y mucho menos los unos en los otros.",
+        "stock": 3,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "The Last of Us Remastered",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2716/wYq1UsVEyQp6dT6cS1omgKiJ.png?w=1920&thumb=false",
+        "price": 9.99, 
+        "category": "videojuegos", 
+        "description": "En un mundo hostil y pospandémico, las circunstancias desesperadas acaban juntando a Ellie y a Joel, que deben confiar el uno en el otro para sobrevivir en un viaje brutal por lo que queda de Estados Unidos.",
+        "stock": 4,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "The Last of Us Parte II",
+        "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/itbSm3suGHSSHIpmu9CCPBRy.jpg?w=940&thumb=false",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "Después de un peligroso viaje por un Estados Unidos postapocalíptico, Ellie y Joel se asientan en Wyoming. La vida en una próspera comunidad les proporciona estabilidad, a pesar de la amenaza de los infectados y los supervivientes desesperados. Tras un hecho violento que altera la paz, Ellie comienza un viaje en busca de justicia. Al dar caza a los responsables, afronta las terribles repercusiones físicas y emocionales de sus actos.",
+        "stock": 2,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "DARK SOULS: REMASTERED",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_DarkSoulsRemastered_image1600w.jpg",
+        "price": 9.99, 
+        "category": "videojuegos", 
+        "description": "Entonces llegó el Fuego. Vuelve a disfrutar del aclamado juego que definió el género con el que empezó todo. Gracias a una magnífica remasterización, podrás regresar a Lordran con unos impresionantes detalles en alta definición y a 60 fps. Dark Souls Remastered incluye el juego principal y el contenido descargable 'Artorias of the Abyss'.",
+        "stock": 4,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "DARK SOULS II: Scholar of the First Sin",
+        "image": "https://www.gamesatlas.com/images/articles/dark-souls-2-cover.jpg",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "Nueva experiencia y nuevos desafíos. Se ha replanteado la posición de los enemigos, lo que produce una dinámica de juego totalmente distinta. ¡Las zonas seguras que recordaban algunos jugadores ya no lo son tanto! Los jugadores avezados tendrán que olvidar todo lo que creían saber sobre DARK SOULS II.",
+        "stock": 2,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "DARK SOULS III",
+        "image": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png?w=940&thumb=false",
+        "price": 29.99, 
+        "category": "videojuegos", 
+        "description": "Adéntrate en un universo lleno de enemigos y entornos descomunales, un mundo en ruinas en el que las llamas se están apagando. Los jugadores se sumergirán en la atmósfera épica de un mundo de oscuridad gracias a un juego más rápido y una intensidad de combate ampliada. Tanto fans como recién llegados disfrutarán de una acción gratificante y gráficos absorbentes. Solo quedan las ascuas... ¡Prepárate una vez más para sumergirte en la oscuridad!",
+        "stock": 3,
+        "plataforma": "PS4"
+    },
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaBreathOfTheWild_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Olvida todo lo que sabes sobre los juegos de The Legend of Zelda. Entra en un mundo de descubrimientos, exploración y aventura en The Legend of Zelda: Breath of the Wild, un nuevo juego de la aclamada serie que rompe con las convenciones.",
+        "stock": 5,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Super Mario Odyssey",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_SuperMarioOdyssey_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "¡Que empiece la odisea! La princesa Peach y Bowser… ¡¿se casan?! Bowser ha vuelto a secuestrar a la princesa Peach, pero esta vez, con buenas intenciones: ¡está preparando una boda por todo lo alto!",
+        "stock": 4,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Luigi's Mansion 3",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_LuigisMansion3_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Únete a Luigi, un héroe de lo más cobardica, en una aventura fantasmagórica (y un pelín viscosa, todo hay que decirlo).Puedes recorrer los sobrenaturales pisos de un hotel encantado en compañía de un amigo en el modo cooperativo, plantarles cara a fantasmas revoltosos y resolver puzles paranormales.",
+        "stock": 3,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Mario Kart 8 Deluxe",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_MarioKart8Deluxe_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Disfruta del Mario Kart más grande de la historia cuando quieras, donde quieras y como quieras: ¡Mario Kart 8 Deluxe, solo para Nintendo Switch!",
+        "stock": 5,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Splatoon 2",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Splatoon2_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Conquista territorio cubriéndolo de tinta en apasionantes batallas de cuatro contra cuatro. ¡El equipo que cubra más terreno con su tinta gana! El trabajo en equipo y saber cuándo adoptar la forma de calamar te darán la ventaja necesaria para ganar. ¡Sal al campo de batalla y ve a por todas!",
+        "stock": 4,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Splatoon 3",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Splatoon3_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Te damos la bienvenida a Tintelia, en la abrasadora región de Tintelia, ¡donde te esperan nuevas armas, habilidades, escenarios e indumentaria de lo más novedoso! Enfréntate a rivales en combates en línea a tope de tinta, repele ofensivas de salmónidos y evita una invasión de octarianos.",
+        "stock": 3,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Super Smash Bros. Ultimate",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_SuperSmashBrosUltimate_02_image1600w.jpg",
+        "price": 69.99, 
+        "category": "videojuegos", 
+        "description": "¡No falta nadie!  Nuevos luchadores, como los inkling de la serie Splatoon, Ridley de la serie Metroid, Simon Belmont de Castlevania y Canela de Animal Crossing, hacen su debut en Super Smash Bros. junto a todos los personajes de las entregas anteriores. ¡Todos!",
+        "stock": 3,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Animal Crossing: New Horizons",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_AnimalCrossingNewHorizons_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "¡Archipiélago Paraíso te necesita! Únete al equipo de desarrollo inmobiliario de Nuria, y échale una mano para construir casas de vacaciones de ensueño.",
+        "stock": 2,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Metroid Dread",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_MetroidDread_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Para completar la misión de Samus, tendrás que abrirte paso a través de las entrañas de un inmenso planeta lleno de entornos únicos, peligros mortales y misteriosos secretos. Usa habilidades nuevas y conocidas para recorrer auténticos laberintos, consulta el mapa para guiarte y dales su merecido a los enemigos con los que te cruces gracias a poderosas armas.",
+        "stock": 1,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Donkey Kong Country: Tropical Freeze",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_DonkeyKongCountryTropicalFreeze_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "¡Donkey Kong Country: Tropical Freeze ya se está preparando para el debut de la serie en Nintendo Switch! Los vikingos se han presentado sin invitación en la Isla de Donkey Kong y la han congelado de punta a punta. ¡Ahora les toca a los Kongs romper el hielo!",
+        "stock": 2,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Captain Toad: Treasure Tracker",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_CaptainToadTreasureTracker_image1600w.png",
+        "price": 39.99, 
+        "category": "videojuegos", 
+        "description": "Explora diversos y desafiantes niveles de estilo «sandbox» inspirados en los minijardines japoneses Hakoniwa en Captain Toad: Treasure Tracker para la familia de consolas Nintendo 3DS.",
+        "stock": 4,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Kirby y la tierra olvidada",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_KirbyAndTheForgottenLand_onlylogo_esES_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Explora un nuevo mundo misterioso en solitario o en compañía de otra persona, descubre nuevas habilidades de copia y enfréntate a todo tipo de bestias.",
+        "stock": 5,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Leyendas Pokémon: Arceus",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_PokemonLegendsArceus_ES_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Explora parajes salvajes inmensos donde te aguardan un sinfín de descubrimientos en Leyendas Pokémon: Arceus para Nintendo Switch. Observa, atrapa e investiga a los Pokémon salvajes en este juego de acción y rol que se desarrolla en el pasado, cuando no era habitual que los humanos y los Pokémon convivieran en armonía.",
+        "stock": 5,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Xenoblade Chronicles 2",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_XenobladeChronicles2_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "En el enorme RPG Xenoblade Chronicles 2 para Nintendo Switch, explorarás un océano infinito de nubes entre las que perviven los restos de una civilización sobre los lomos de enormes bestias llamadas titanes. Descubre la historia de Rex y su nueva amiga Pyra, un ser misterioso ser conocido como Blade que le otorga enorme poder. Juntos emprenderán la búsqueda del hogar perdido de Pyra, el Elíseo, la cuna de la humanidad.",
+        "stock": 4,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Bayonetta + Bayonetta 2",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_XenobladeChronicles2_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Bayonetta: La primera entrega de la saga Bayonetta, publicada originalmente en 2010, presentó al mundo el concepto de acción frenética, una explosiva mezcla de acción dinámica y un estilo pícaro. Con un arma en cada mano y pie, Bayonetta destruye a sus oponentes con ataques combo que resultan tan hermosos como devastadores. Bayonetta 2: En esta secuela del aclamado juego de acción Bayonetta, los jugadores estarán al borde de un ataque de nervios de principio a fin. Un juego de acción cargado de alucinantes batallas y bellas escenas cinemáticas renace ahora para Nintendo Switch.",
+        "stock": 2,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Bayonetta 3",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Bayonetta3_image1600w.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "¡Es la hora del embrujo! ¡Haz gala de poderío, dispara con fruición y derrota a los malos con un estilazo de infarto en Bayonetta 3 para Nintendo Switch! Únete a Bayonetta en este juego de acción ultrafrenética, y enfréntate a una misteriosa fuerza maligna gracias a sus icónicas pistolas y un sinfín de nuevas técnicas demoniacas.",
+        "stock": 1,
+        "plataforma": "Nintendo Switch"
+    },
+    {
+        "name": "Psychonauts 2",
+        "image": "https://assets.xboxservices.com/assets/c6/67/c6670b2a-1144-437d-8c3a-3ef8a7380535.jpg?n=984302_GLP-Page-Hero-0_1083x609.jpge",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "Razputin Raz Aquato, acróbata experto y poderoso psíquico a pesar de su corta edad, ha cumplido su mayor sueño: ¡unirse a los Psiconautas, la organización internacional de espionaje psíquico! Sin embargo, estos superespías mentales están en apuros, pues su líder no ha sido el mismo desde que lo rescataron tras su secuestro y, para colmo, hay un topo infiltrado en el cuartel general.",
+        "stock": 2,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Ori and the Blind Forest: Definitive Edition",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_OriAndTheBlindForestDefinitiveEdition_image1600w.jpg",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "El bosque de Nibel se está marchitando. Tras una terrible tormenta que pone en marcha una serie de acontecimientos devastadores, Ori emprenderá un viaje para armarse de valentía y enfrentarse a un enemigo espeluznante, y así salvar el bosque de Nibel.",
+        "stock": 2,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Ori and the Will of the Wisps",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_OriAndTheWillOfTheWisps_image1600w.jpg",
+        "price": 29.99, 
+        "category": "videojuegos", 
+        "description": "De los creadores de Ori and the Blind Forest, llega la tan esperada secuela: Ori and the Will of the Wisps. Embárcate en una aventura completamente nueva por un vasto y exótico mundo en el que te enfrentarás a puzles y enemigos de lo más desafiantes en tu misión para descubrir el destino de Ori.",
+        "stock": 3,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "TUNIC",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Tunic_image1600w.jpg",
+        "price": 27.99, 
+        "category": "videojuegos", 
+        "description": "Explora una tierra plagada de leyendas olvidadas, poderes ancestrales y feroces monstruos en TUNIC, un juego de acción isométrico sobre un pequeño zorro que emprende una gran aventura. Abandonado en una playa misteriosa y armado solo con tu propia curiosidad, deberás enfrentarte a bestias colosales, reunir extraños y poderosos objetos y desvelar secretos perdidos en el tiempo.",
+        "stock": 3,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Cult of the Lamb",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_CultOfTheLamb_image1600w.jpg",
+        "price": 24.99, 
+        "category": "videojuegos", 
+        "description": "Cult of the Lamb mete a los jugadores en el papel de un cordero poseído, salvado de la aniquilación por un ominoso desconocido, que debe pagar su deuda creando un grupo de fieles seguidores en su nombre. Crea tu propia secta en una tierra de falsos profetas, aventurándote en regiones diversas y misteriosas para construir una leal comunidad de adoradores de los bosques, y difunde tu Palabra para convertir tu secta en la única y verdadera.",
+        "stock": 1,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "OlliOlli World",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_OlliOlliWorld_image1600w.jpg",
+        "price": 29.99, 
+        "category": "videojuegos", 
+        "description": "Atraviesa el genial mundo de Radlandia y conoce a personajes memorables mientras haces todo tipo de trucos sobre tu tabla para descubrir a los dioses místicos del skate en busca de Gnarvana",
+        "stock": 4,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Tinykin",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Tinykin_image1600w.jpg",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "¡Milo llega a la Tierra y se da cuenta de que es muy pequeño, no hay ni un alma y no ha pasado ni un solo día desde el año 1991! ¡Haz equipo con los misteriosos tinykin y usa sus poderes especiales para crear escaleras, puentes, explosiones y mucho más!",
+        "stock": 4,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "It Takes Two",
+        "image": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_ItTakesTwo_image1600w.jpg",
+        "price": 29.99, 
+        "category": "videojuegos", 
+        "description": "Embárcate en la aventura más loca de tu vida con It Takes Two, un juego de plataformas multigénero exclusivamente cooperativo. Invita a una amistad a acompañarte gratis con el Pase de amigo para colaborar en una gran variedad de desafíos deliciosamente rompedores.",
+        "stock": 2,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare II",
+        "image": "https://phantom-marca.unidadeditorial.es/5a63ce6030006c77945628d0d67c426c/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/07/16546329958064.jpg",
+        "price": 79.99, 
+        "category": "videojuegos", 
+        "description": "Modern Warfare II cuenta con una campaña mundial de un jugador, un combate Multijugador envolvente y un modo de juego evolucionado de Operaciones Especiales tácticas y cooperativas.",
+        "stock": 4,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "image": "https://img.hype.games/cdn/82cff34f-a84c-47c3-8cfb-585b2b7c8ec3Cover_ForzaHorizon5Edi%C3%A7%C3%A3oPadr%C3%A3o.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "¡Tu aventura definitiva en Horizon te espera! Explora paisajes dinámicos y en constante evolución del mundo abierto de México con una acción de conducción ilimitada y divertida en cientos de los mejores coches del mundo.",
+        "stock": 5,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Microsoft Flight Simulator",
+        "image": "https://assets.xboxservices.com/assets/ba/1d/ba1d9395-5db7-4072-b916-f276892a919c.jpg?n=Microsoft-Flight-Simulator_Poster-Image-1084_40th-Ann_1920x1080.jpg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "Surca los cielos y disfruta la alegría de volar en la próxima generación de Microsoft Flight Simulator. El mundo está al alcance de la mano.",
+        "stock": 1,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Halo Infinite",
+        "image": "https://i.blogs.es/311800/halo-infinite-3/1366_2000.jpeg",
+        "price": 59.99, 
+        "category": "videojuegos", 
+        "description": "CONVIÉRTETE EN HÉROE. La legendaria serie Halo regresa con la campaña del Jefe Maestro más amplia hasta la fecha y una innovadora experiencia multijugador gratuita.",
+        "stock": 4,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Evil West",
+        "image": "https://www.guardadorapido.com/wp-content/uploads/2022/10/Evil-West-portada.jpg",
+        "price": 39.99, 
+        "category": "videojuegos", 
+        "description": "Una oscura amenaza consume la frontera americana. Como uno de los últimos agentes de una institución ultrasecreta dedicada a cazar vampiros, eres la última línea de defensa de la humanidad contra un terror profundamente arraigado que emerge ahora de entre las sombras. Álzate y conviértete en un superhéroe del salvaje Oeste, erradica la amenaza de los vampiros y ¡salva a los Estados Unidos!",
+        "stock": 3,
+        "plataforma": "Xbox"
+    },
+    {
+        "name": "Hellblade: Senua's Sacrifice",
+        "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/04/02/5fa51e832fdcb.jpeg",
+        "price": 19.99, 
+        "category": "videojuegos", 
+        "description": "Ambientado en la era vikinga, una guerrera celta destrozada se embarca en una misión onírica obsesiva para luchar por el alma de su difunto amante. Creado en colaboración con neurocientíficos y personas que sufren psicosis, Hellblade: El Sacrificio de Senua te sumerge de lleno en la furia melancólica de la mente desquebrajada de Senua.",
+        "stock": 2,
+        "plataforma": "Xbox"
+    }
+]
