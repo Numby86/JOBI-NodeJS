@@ -6,7 +6,10 @@
   "scripts": {
     "start": "node index.js",
     "start:live": "nodemon index.js",
-    "populate:movies": "node ./utils/seeds/movies.seed.js"
+    "populate:videogames": "node ./utils/seeds/videogames.seed.js",
+    "populate:books": "node ./utils/seeds/books.seed.js",
+    "populate:clothes": "node ./utils/seeds/clothes.seed.js",
+    "populate:toys": "node ./utils/seeds/toys.seed.js"
   },
   "keywords": [],
   "author": "",
