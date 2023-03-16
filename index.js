@@ -10,6 +10,9 @@ connect();
 const PORT = 4000;
 const server = express();
 
+server.get('/', (req, res) => {
+    res.json(`Bienvenido a nuestro e-commerce`)
+});
 server.use('/products', videogamesRouter, booksRouter, clothesRouter, toysRouter);
 
 server.listen(PORT, () => {
