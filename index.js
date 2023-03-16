@@ -15,3 +15,5 @@ server.use('/products', videogamesRouter, booksRouter, clothesRouter, toysRouter
 server.listen(PORT, () => {
     console.log(`El servidor está escuchando en http://localhost:${PORT}`);
 });
+
+module.exports = server;
