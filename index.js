@@ -45,7 +45,10 @@ server.use(passport.session());
 server.get('/', (req, res) => {
     res.json(`Bienvenido a nuestro e-commerce`)
 });
-server.use('/products', videogamesRouter, booksRouter, clothesRouter, toysRouter);
+server.use('/videogames', videogamesRouter);
+server.use('/books', booksRouter);
+server.use('/clothes', clothesRouter);
+server.use('/toys', toysRouter);
 server.use('/user', userRouter);
 
 server.use('*', (req, res, next) => {

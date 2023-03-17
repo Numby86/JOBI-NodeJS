@@ -3,7 +3,7 @@ const Videogame = require('../models/Videogames.js');
 
 const videogamesRouter = express.Router();
 
-videogamesRouter.get('/videogames', async (req, res) => {
+videogamesRouter.get('/', async (req, res) => {
     try {
         const videogames = await Videogame.find();
         return res.status(200).json(videogames);
@@ -12,7 +12,7 @@ videogamesRouter.get('/videogames', async (req, res) => {
     }
 });
 
-videogamesRouter.get('/videogames/:id', async (req, res) => {
+videogamesRouter.get('/:id', async (req, res) => {
     const id = req.params.id;
     try {
         const videogame = await Videogame.findById(id);
