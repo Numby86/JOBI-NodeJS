@@ -3,7 +3,7 @@ const Toy = require('../models/Toys.js');
 
 const toysRouter = express.Router();
 
-toysRouter.get('/toys', async (req, res) => {
+toysRouter.get('/', async (req, res) => {
     try {
         const toys = await Toy.find();
         return res.status(200).json(toys);
@@ -12,7 +12,7 @@ toysRouter.get('/toys', async (req, res) => {
     }
 });
 
-toysRouter.get('/toys/:id', async (req, res) => {
+toysRouter.get('/:id', async (req, res) => {
     const id = req.params.id;
     try {
         const toy = await Toy.findById(id);

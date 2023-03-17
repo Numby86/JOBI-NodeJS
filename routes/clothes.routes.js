@@ -3,7 +3,7 @@ const Cloth = require('../models/Clothes.js');
 
 const clothesRouter = express.Router();
 
-clothesRouter.get('/clothes', async (req, res) => {
+clothesRouter.get('/', async (req, res) => {
     try {
         const clothes = await Cloth.find();
         return res.status(200).json(clothes);
@@ -12,7 +12,7 @@ clothesRouter.get('/clothes', async (req, res) => {
     }
 });
 
-clothesRouter.get('/clothes/:id', async (req, res) => {
+clothesRouter.get('/:id', async (req, res) => {
     const id = req.params.id;
     try {
         const cloth = await Cloth.findById(id);
