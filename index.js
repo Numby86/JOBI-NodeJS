@@ -13,12 +13,20 @@ const userRouter = require('./routes/user.routes.js');
 const session = require('express-session');
 const MongoStore = require('connect-mongo');
 const path = require('path');
+const cloudinary = require('cloudinary');
+
 const DB_URL = process.env.DB_URL;
 
 connect();
 
 const PORT = process.env.PORT || 4000;
 const server = express();
+
+cloudinary.config({
+    cloud_name: process.env.CLOUD_NAME,
+    api_key: process.env.CLOUD_API_KEY,
+    api_secret: process.env.CLOUD_SECRET
+  });
 
 server.use(cors());
 server.use(express.json());
@@ -45,11 +53,13 @@ server.use(passport.session());
 server.get('/', (req, res) => {
     res.json(`Bienvenido a nuestro e-commerce`)
 });
+
+server.use('/user', userRouter);
 server.use('/videogames', videogamesRouter);
 server.use('/books', booksRouter);
 server.use('/clothes', clothesRouter);
 server.use('/toys', toysRouter);
-server.use('/user', userRouter);
+
 
 server.use('*', (req, res, next) => {
     next(createError('Esta ruta no existe', 404));
