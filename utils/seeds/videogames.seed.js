@@ -2,7 +2,8 @@ const mongoose = require('mongoose');
 const Videogame = require('../../models/Videogames.js');
 const fs = require('fs');
 
-const DB_URL = "mongodb+srv://root:OL6QyqnUQJskn6LU@jobi.uzskkuh.mongodb.net/?retryWrites=true&w=majority";
+
+const DB_URL = process.env.DB_URL;
 
 mongoose.connect(DB_URL, {
     useNewUrlParser: true,

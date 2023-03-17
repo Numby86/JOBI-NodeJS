@@ -11,7 +11,7 @@ const videogameSchema = new mongoose.Schema(
                     message: "Esta no es una categoria de nuestros productos web"
                 } },
         description: String,
-        plataforma: String,
+        platform: String,
         stock: { type: Number, required: true}
     },
     {
