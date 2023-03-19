@@ -18,7 +18,7 @@ mongoose.connect(DB_URL, {
     console.log(`Ha habido un error eliminando los datos: ${err}`);
 })
 .then(async () => {
-    const data = fs.readFileSync('./utils/seeds/seeds/books.json');
+    const data = fs.readFileSync('./utils/seeds/db/books.json');
     const parsedData = JSON.parse(data);
     const bookDocs = parsedData.map((book) => {
         return new Book(book);

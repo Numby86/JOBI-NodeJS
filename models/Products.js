@@ -1,24 +1,34 @@
 const mongoose = require('mongoose');
 
-const videogameSchema = new mongoose.Schema(
+const productSchema = new mongoose.Schema(
     {
         name: { type: String, required: true, unique: true },
         image: { type: String, required: true },
         price: { type: Number, required: true, min: [1, "el precio debe ser mayor de 1 siempre"]},
-        category: { type: [String], 
+        category: { type: String, 
                     enum: {
                     values: ["libros", "juguetes", "ropa", "videojuegos"],
                     message: "Esta no es una categoria de nuestros productos web"
                 } },
         description: String,
-        plataforma: String,
-        stock: { type: Number, required: true}
+        stock: { type: Number, required: true},
+        type: [String],
+        author: [String],
+        pages: Number,
+        editorial: String,
+        languague: String,
+        bookbinding: String,
+        yearEdition: Number,
+        isbn: Number,
+        size: String,
+        color: String,
+        platform: String
     },
     {
         timestamps: true
     }
 );
 
-const Videogame = mongoose.model('Videogame', videogameSchema);
+const Product = mongoose.model('Product', productSchema);
 
-module.exports = Videogame;
+module.exports = Product;

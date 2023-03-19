@@ -6,6 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "start:live": "nodemon index.js",
+    "populate:products": "node ./utils/seeds/products.seed.js",
+    "populate:movies": "node ./utils/seeds/movies.seed.js",
     "populate:videogames": "node ./utils/seeds/videogames.seed.js",
     "populate:books": "node ./utils/seeds/books.seed.js",
     "populate:clothes": "node ./utils/seeds/clothes.seed.js",
@@ -18,7 +20,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^5.0.1",
     "cloudinary": "^1.32.0",
     "connect-mongo": "^4.6.0",
     "cors": "^2.8.5",

@@ -2,7 +2,7 @@ const passport = require("passport");
 const User = require("../../models/Users");
 const localStrategy = require("passport-local").Strategy;
 const bcrypt = require("bcrypt");
-const createError = require("../errors/create-errors.js");
+const createError = require("../errors/create-errors");
 
 passport.use(
   "register",
@@ -16,16 +16,12 @@ passport.use(
       try {
         const previousUser = await User.findOne({ email });
         if (previousUser) {
-          return done(createError("Este usuario ya existe, inicia sesion."));
+          return done(createError("Este usuario ya existe, inicia sesion. "));
         }
         const encPassword = await bcrypt.hash(password, 10);
         const newUser = new User({
           email,
           password: encPassword,
-          name: req.body.name,
-          surname: req.body.surname,
-          phone: req.body.phone,
-          role: req.body.role
         });
         const savedUser = await newUser.save();
         return done(null, savedUser);
@@ -49,7 +45,7 @@ passport.use(
         const currentUser = await User.findOne({ email });
         if (!currentUser) {
           return done(
-            createError("No existe ningun usuario con este email, regístrate.")
+            createError("No existe ningun usuario con este email, registrate. ")
           );
         }
         const isValidPassword = await bcrypt.compare(
@@ -58,7 +54,7 @@ passport.use(
         );
         if (!isValidPassword) {
           return done(
-            createError("La contraseña es incorrecta, prueba de nuevo.")
+            createError("La contraseña es incorecta, prueba de nuevo. ")
           );
         }
         currentUser.password = null;

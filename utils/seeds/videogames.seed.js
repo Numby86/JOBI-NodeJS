@@ -2,7 +2,6 @@ const mongoose = require('mongoose');
 const Videogame = require('../../models/Videogames.js');
 const fs = require('fs');
 
-
 const DB_URL = process.env.DB_URL;
 
 mongoose.connect(DB_URL, {
@@ -19,7 +18,7 @@ mongoose.connect(DB_URL, {
     console.log(`Ha habido un error eliminando los datos: ${err}`);
 })
 .then(async () => {
-    const data = fs.readFileSync('./utils/seeds/seeds/videogames.json');
+    const data = fs.readFileSync('./utils/seeds/db/videogames.json');
     const parsedData = JSON.parse(data);
     const videogameDocs = parsedData.map((videogame) => {
         return new Videogame(videogame);
