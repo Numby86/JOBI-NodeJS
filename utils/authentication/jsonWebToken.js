@@ -5,7 +5,13 @@ const getJWT = (userInfo) => {
         {
             id: userInfo._id,
             email: userInfo._email,
-            role: userInfo.role
+            role: userInfo.role,
+            name: userInfo.name,
+            surname: userInfo.surname,
+            phone: userInfo.phone,
+            picture: userInfo.picture
+
+
         },
         process.env.JWT_SECRET_KEY,
         {

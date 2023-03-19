@@ -1,11 +1,12 @@
-const multer = require("multer");
-const path = require("path");
-const createError = require("../errors/create-error");
-const VALID_FILE_TYPES = ['image/png', 'image/tga'];
+const multer = require('multer');
+const path = require('path');
+const createError = require('../errors/create-errors');
+
+const VALID_FILE_TYPES = ['image/png', 'image/jpg', 'image/jpeg'];
 
 const fileFilter = (req, file, cb) => {
-    if (!VALID_FILE_TYPES.includes(file.mimetype)) {
-        cb(createError("El archivo no tiene un formato válido (se acepta png y tga con alpha)"));
+    if(!VALID_FILE_TYPES.includes(file.mimetype)){
+        cb(createError("Ese tipo de archivo no es válido."));
     } else {
         cb(null, true);
     }

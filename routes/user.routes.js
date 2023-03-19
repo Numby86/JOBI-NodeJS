@@ -10,12 +10,12 @@ const userRouter = express.Router();
 userRouter.post("/register", (req, res, next) => {
   const done = (err, user) => {
     if (err) {
-      return next(err);
-      //return res.status(500).json(res);
+      //return next(err);
+      return res.status(500).json(res);
     }
     req.logIn(user, (err) => {
       if (err) {
-        return next(err);
+        return res.status(500).json(res);
       }
       return res.status(201).json(user);
     });
@@ -47,7 +47,7 @@ userRouter.post("/logout", (req, res, next) => {
       });
     });
   } else {
-    return res.status(304).json("No hay ningún usuario logueado en este momento. ");
+    return res.sendStatus(304).json("No hay ningun usuario logueado en este momento. ");
   }
 });
 
